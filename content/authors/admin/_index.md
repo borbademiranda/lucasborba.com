@@ -41,19 +41,7 @@ interests:
 education:
   - area: PhD Political Science
     institution: Vanderbilt University
-    date_start: 2021-08-01
-    date_end: 2027-05-31
-   summary: |
-      Thesis on Segregation and the Weak State Trap
-      button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-#  - area: MEng Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      GPA: 3.8/4.0
+
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
