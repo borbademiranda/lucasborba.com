@@ -14,7 +14,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      css_style: "max-width: 1200px; margin: auto;"
+      css_style: "max-width: 2000px; margin: auto;"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
