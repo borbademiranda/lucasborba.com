@@ -15,12 +15,12 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: https://drive.google.com/file/d/15HiT-LidaFuhsrgE_B8YYCaxBYjhC-7P/view?usp=sharing
+#      button:
+#        text: Download CV
+#        url: https://drive.google.com/file/d/15HiT-LidaFuhsrgE_B8YYCaxBYjhC-7P/view?usp=sharing
     design:
       css_class: dark
-      columns: "1"
+      columns: "2"
       background:
         color: black
         image:
