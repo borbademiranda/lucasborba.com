@@ -7,7 +7,6 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-  columns: "1"
 
 sections:
   - block: resume-biography-3
@@ -22,6 +21,7 @@ sections:
     design:
       css_class: dark
       columns: "1"
+      css_style: "max-width: 1200px; width: 100%;"
       background:
         color: black
         image:
