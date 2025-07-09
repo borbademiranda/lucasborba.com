@@ -50,7 +50,7 @@ education:
     date_start: 2021-08-01
     date_end: 2027-05-31
     summary: |
-
+      Dissertation title: Segregation and the Weak State Trap
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
