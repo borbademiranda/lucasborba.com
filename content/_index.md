@@ -7,7 +7,7 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-  columns: 1
+  columns: "1"
 
 sections:
   - block: resume-biography-3
@@ -21,7 +21,7 @@ sections:
         url: https://drive.google.com/file/d/15HiT-LidaFuhsrgE_B8YYCaxBYjhC-7P/view?usp=sharing
     design:
       css_class: dark
-      columns: 1
+      columns: "1"
       background:
         color: black
         image:
