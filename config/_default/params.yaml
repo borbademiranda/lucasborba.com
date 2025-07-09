@@ -63,6 +63,7 @@ params:
   extra_head: |
     <style>
     .author-bio .container {
-        max-width: 1200px;
+        max-width: 2000px !important;
+        width: 100% !important;
     }
     </style>
