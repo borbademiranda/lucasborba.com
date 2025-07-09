@@ -15,8 +15,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-css_style: "max-width: 2000px; margin: auto;"
-
+css_style: "max-width: none; width: 100%;"
 
 # Role/position/tagline
 role: PhD Candidate
@@ -155,6 +154,7 @@ education:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
+css_style: "max-width: none; width: 100%;"
 
 ## About Me
 
