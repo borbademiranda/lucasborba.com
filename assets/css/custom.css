@@ -1,3 +1,6 @@
-.author-bio .container {
+.author-bio [class*="w-full"],
+.author-bio [class*="sm:w-8/12"],
+.author-bio [class*="xl:w-6/12"] {
+  width: 100% !important;
   max-width: 2000px !important;
 }
