@@ -3,7 +3,7 @@
 title: Lucas Borba
 
 # Name pronunciation (optional)
-name_pronunciation: Lucas Borba
+#name_pronunciation: Lucas Borba
 
 # Full name (for SEO)
 first_name: Lucas
