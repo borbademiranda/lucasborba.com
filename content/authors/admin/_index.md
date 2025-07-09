@@ -18,7 +18,7 @@ highlight_name: true
 # Role/position/tagline
 role: PhD Candidate
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography box
 organizations:
   - name: Vanderbilt University
     url: https://as.vanderbilt.edu/political-science/
