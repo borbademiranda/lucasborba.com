@@ -156,7 +156,9 @@ education:
 ## About Me
 
 I am a PhD candidate in political science at Vanderbilt University. My research explores the political economy of local government capacity, focusing on how socioeconomic segregation shapes local governance, taxation, and economic informality. I use a mixed-methods approach that combines qualitative interviews, focus groups, public opinion surveys, and causal inference techniques. Through this work, I aim to understand the social foundations of institutional weakness in unequal societies, with a particular emphasis on urban politics in Brazil. I am also interested in public attitudes toward democracy and the dynamics of democratic backsliding in developing countries.  
+    
 I am a research affiliate of the Center for Global Democracy, the Center for the Study of Democratic Institutions, and the Research on Individuals, Politics, and Society Lab at Vanderbilt University. My research has been supported by the American Political Science Association, the LAPOP Lab, and the Center for Latin American and Latinx Studies at Vanderbilt.  
+  
 Outside of work, I enjoy running, playing electric guitar, exploring new foods, watching movies, and spending time with cats.
 
 
