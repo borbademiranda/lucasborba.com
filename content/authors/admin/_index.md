@@ -37,9 +37,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Comparative Politics
+  - Political Economy of Development
+  - State Capacity and Governance
+  - Inequality and Social Policies
+  - Local and Distributive Politics
+  - Democratic Attitudes in Developing Democracies
 
 education:
   - area: PhD Artificial Intelligence
