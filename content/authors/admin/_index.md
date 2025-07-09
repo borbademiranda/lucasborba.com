@@ -3,11 +3,15 @@
 title: Lucas Borba
 
 # Name pronunciation (optional)
-#name_pronunciation: Lucas Borba
+name_pronunciation: Lucas Borba
 
 # Full name (for SEO)
 first_name: Lucas
 last_name: Borba
+
+# Status emoji
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +22,7 @@ highlight_name: true
 # Role/position/tagline
 role: PhD Candidate
 
-# Organizations/Affiliations to display in Biography box
+# Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Vanderbilt University
     url: https://as.vanderbilt.edu/political-science/
@@ -29,23 +33,34 @@ profiles:
   - icon: at-symbol
     url: 'mailto:lucas.borba@vanderbilt.edu'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=XcwQzxgAAAAJ&hl=en
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
-  - Comparative Politics
-  - Political Economy of Development
-  - State Capacity
-  - Economic Informality
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD Political Science
-    institution: Vanderbilt University
-    date_start: 2021-08-01
-    date_end: 2027-05-31
-   summary: |
-      Thesis on Segregation and the Weak State Trap
-
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
