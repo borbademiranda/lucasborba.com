@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       columns: "1"
-      css_style: "max-width: 1600px; width: 100%;"
+      css_style: "max-width: 2000px; width: 100%;"
       background:
         color: black
         image:
