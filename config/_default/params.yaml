@@ -58,3 +58,11 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+params:
+  extra_head: |
+    <style>
+    .author-bio .container {
+        max-width: 1200px;
+    }
+    </style>
