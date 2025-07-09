@@ -1,0 +1,4 @@
+params:
+  assets:
+    css:
+      - "css/custom.css"
