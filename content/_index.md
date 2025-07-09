@@ -21,6 +21,7 @@ sections:
         url: https://drive.google.com/file/d/15HiT-LidaFuhsrgE_B8YYCaxBYjhC-7P/view?usp=sharing
     design:
       css_class: dark
+      columns: 1
       background:
         color: black
         image:
