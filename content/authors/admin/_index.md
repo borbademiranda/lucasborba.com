@@ -155,4 +155,12 @@ education:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in political science at Vanderbilt University. My research focuses on the political economy of local government capacity, exploring how socioeconomic segregation shapes local governance, taxation, and economic informality. I use a mixed-methods approach that combines qualitative interviews, focus groups, public opinion surveys, and causal inference techniques. Through my work, I aim to understand the social foundations of institutional weakness in unequal societies, with a particular emphasis on urban politics in Brazil. Besides that, I am also interested in democratic attitudes among the public and democratic backsliding in developing democracies. I am a research affiliate of the Center for Global Democracy, the Center for the Study of Democratic Institutions, and the Research on Individuals, Politics, and Society Lab, all based at Vanderbilt University. My research has been funded by the American Political Science Association, the LAPOP Lab, and the Center for Latin American and Latinx Studies at Vanderbilt.
+
+
+
+
+
+
+
+
