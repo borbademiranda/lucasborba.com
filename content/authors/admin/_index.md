@@ -15,6 +15,9 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+css_style: "max-width: 1200px; margin: auto;"
+
+
 # Role/position/tagline
 role: PhD Candidate
 
