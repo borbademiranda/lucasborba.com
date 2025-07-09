@@ -62,8 +62,13 @@ features:
 params:
   extra_head: |
     <style>
-    .author-bio .container {
-        max-width: 2000px !important;
+      .author-bio .w-full {
         width: 100% !important;
-    }
+        max-width: 2000px;
+      }
+      .author-bio .sm\\:w-8\\/12,
+      .author-bio .xl\\:w-6\\/12 {
+        width: 100% !important;
+        max-width: 2000px;
+      }
     </style>
