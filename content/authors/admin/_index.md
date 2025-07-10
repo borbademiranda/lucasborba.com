@@ -40,24 +40,28 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Comparative Politics
-  - Political Economy of Development
-  - State Capacity and Governance
-  - Inequality and Social Policies
-  - Local and Distributive Politics
-  - Democratic Attitudes in Developing Democracies
+#interests:
+#  - Comparative Politics
+#  - Political Economy of Development
+#  - State Capacity and Governance
+#  - Inequality and Social Policies
+#  - Local and Distributive Politics
+#  - Democratic Attitudes in Developing Democracies
 
-education:
-  - area: PhD Political Science (Expected 2027)
-    institution: Vanderbilt University
-    date_start: 2021-08-01
-    date_end: 2027-05-31
-    summary: |
-      Dissertation title: Segregation and the Weak State Trap
+#education:
+#  - area: PhD Political Science (Expected 2027)
+#    institution: Vanderbilt University
+#    date_start: 2021-08-01
+#    date_end: 2027-05-31
+#    summary: |
+#      Dissertation title: Segregation and the Weak State Trap
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
+#  - area: MA Political Science
+#    institution: Vanderbilt University
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
 
 #work:
 # - position: Director of Cloud Infrastructure
