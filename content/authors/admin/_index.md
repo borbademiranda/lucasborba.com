@@ -49,10 +49,8 @@ interests:
   - Democratic Attitudes in Developing Democracies
 
 education:
-  - area: PhD Political Science
-    institution: >
-    Vanderbilt University (Expected 2027). Dissertation title: Segregation and the Weak State Trap
-
+  - area: PhD Political Science (Expected 2027)
+    institution: Vanderbilt University
     date_start: 2021-08-01
     date_end: 2027-05-31
     summary: |
