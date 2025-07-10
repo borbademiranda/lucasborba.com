@@ -1,7 +1,5 @@
 ---
-tags: []
-categories: []
----
+
 # Display name
 title: Lucas Borba
 
@@ -170,7 +168,7 @@ I am a research affiliate of the Center for Global Democracy, the Center for the
   
 Outside of work, I enjoy running, playing electric guitar, exploring new foods, watching movies, and spending time with cats.
 
-
+---
 
 
 
