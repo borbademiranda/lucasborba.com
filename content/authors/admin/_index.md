@@ -12,6 +12,7 @@ last_name: Borba
 avatar:
   image: avatar.png
   shape: circle
+  placement: 2
 
 # Is this the primary user of the site?
 superuser: true
