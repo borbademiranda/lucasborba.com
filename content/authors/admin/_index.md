@@ -50,7 +50,9 @@ interests:
 
 education:
   - area: PhD Political Science
-    institution: Vanderbilt University
+    institution: Vanderbilt University (Expected 2027).  
+    Dissertation title: Segregation and the Weak State Trap
+
     date_start: 2021-08-01
     date_end: 2027-05-31
     summary: |
@@ -159,12 +161,11 @@ education:
 
 ## About Me
 
-I am a PhD candidate in political science at Vanderbilt University. My research explores the political economy of local government capacity, focusing on how socioeconomic segregation shapes local governance, taxation, and economic informality. I use a mixed-methods approach that combines qualitative interviews, focus groups, public opinion surveys, and causal inference techniques. Through this work, I aim to understand the social foundations of institutional weakness in unequal societies, with a particular emphasis on urban politics in Brazil. I am also interested in public attitudes toward democracy and the dynamics of democratic backsliding in developing countries.  
-    
-I am a research affiliate of the Center for Global Democracy, the Center for the Study of Democratic Institutions, and the Research on Individuals, Politics, and Society Lab at Vanderbilt University. My research has been supported by the American Political Science Association, the LAPOP Lab, and the Center for Latin American and Latinx Studies at Vanderbilt.  
-  
-Outside of work, I enjoy running, playing electric guitar, exploring new foods, watching movies, and spending time with cats.
+I am a PhD candidate in political science at Vanderbilt University. My research focuses on the political economy of local government capacity and how socioeconomic segregation shapes local governance. I employ a mixed-methods approach that combines qualitative interviews, focus groups, public opinion surveys, and causal inference techniques to investigate the social foundations of institutional weakness in unequal societies, with a particular emphasis on Brazil and Latin America. I am also interested in public attitudes toward democracy and the dynamics of democratic backsliding in developing countries. My work has been supported by the American Political Science Association, the Society for Political Methodology, the LAPOP Lab, the Center for Latin American and Latinx Studies at Vanderbilt, and the Brazilian Council for Scientific and Technological Development.
 
+I am a research affiliate of the Center for Global Democracy, the Center for the Study of Democratic Institutions, and the Research on Individuals, Politics, and Society Lab at Vanderbilt. 
+
+Outside of research, I enjoy running, playing electric guitar, exploring new cuisines, watching movies, and spending time with cats.
 
 
 
