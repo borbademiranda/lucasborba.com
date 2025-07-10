@@ -1,7 +1,3 @@
 .container {
     max-width: 90%;
 }
-
-section#section-resume-biography-3 div.resume-biography px-3 flex flex-col md:flex-row justify-center gap-12 {
-    max-width: 80vw!important ;
-}
