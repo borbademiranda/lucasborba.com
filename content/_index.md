@@ -29,7 +29,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: tempImagewd5LRH.svg
           filters:
-            brightness: 0.6
+            brightness: 0.4
           size: cover
           position: center
           parallax: false
