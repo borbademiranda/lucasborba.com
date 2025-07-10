@@ -9,6 +9,14 @@ title: Lucas Borba
 first_name: Lucas
 last_name: Borba
 
+avatar:
+  image: avatar.png
+  shape: circle
+  # Force higher resolution
+  processing:
+    width: 540
+    height: 540
+
 # Is this the primary user of the site?
 superuser: true
 
