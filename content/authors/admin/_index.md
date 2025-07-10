@@ -14,8 +14,8 @@ avatar:
   shape: circle
   # Force higher resolution
   processing:
-    width: 540
-    height: 540
+    width: 270
+    height: 270
 
 # Is this the primary user of the site?
 superuser: true
