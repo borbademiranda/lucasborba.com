@@ -1,11 +1,9 @@
 ---
-tags: []
-categories: []
 title: "Teaching"
-tags: []
-categories: []
 summary: My courses
 type: landing
+tags: []
+categories: []
 
 cascade:
   - _target:

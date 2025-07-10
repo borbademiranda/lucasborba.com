@@ -1,7 +1,4 @@
 ---
-tags: []
-categories: []
----
 title: "Projects"
 tags: []
 categories: []
@@ -24,3 +21,4 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+---
