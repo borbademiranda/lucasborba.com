@@ -17,7 +17,7 @@ main:
 #    url: /#news
 #    weight: 13
   - name: Publications
-    url: publications/
+    url: publication/
     weight: 20
   - name: Work in Progress
     url: work_in_prog/
