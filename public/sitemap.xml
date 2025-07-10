@@ -119,6 +119,12 @@
     <loc>http://localhost:1313/post/teach-courses/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/project/projects/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
