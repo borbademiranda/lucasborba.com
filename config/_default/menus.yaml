@@ -19,8 +19,8 @@ main:
   - name: Publications
     url: publications/
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Work in Progress
+    url: work_in_prog/
     weight: 30
   - name: Teaching
     url: teaching/
