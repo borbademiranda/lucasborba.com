@@ -1,4 +1,6 @@
 ---
+tags: []
+categories: []
 title: 'An example conference paper'
 
 # Authors
@@ -75,6 +77,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+tags: []
+categories: []
 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.

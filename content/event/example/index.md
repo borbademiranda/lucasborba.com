@@ -1,4 +1,7 @@
 ---
+tags: []
+categories: []
+---
 title: Example Talk
 
 event: Hugo Blox Builder Conference
@@ -61,6 +64,8 @@ slides: ""
 projects:
   - example
 ---
+tags: []
+categories: []
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

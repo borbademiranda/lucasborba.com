@@ -1,5 +1,9 @@
 ---
-title: Teaching
+tags: []
+categories: []
+title: "Teaching"
+tags: []
+categories: []
 summary: My courses
 type: landing
 

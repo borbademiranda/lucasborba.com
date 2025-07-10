@@ -1,4 +1,6 @@
 ---
+tags: []
+categories: []
 title: "An example preprint / working paper"
 authors:
 - admin
@@ -61,6 +63,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+tags: []
+categories: []
 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
