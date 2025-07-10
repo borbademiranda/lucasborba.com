@@ -10,7 +10,7 @@ first_name: Lucas
 last_name: Borba
 
 avatar:
-  image: avatar.png
+  image: avatar.jpg
   shape: circle
   # Force higher resolution
   processing:
