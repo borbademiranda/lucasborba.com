@@ -9,13 +9,7 @@ title: Lucas Borba
 first_name: Lucas
 last_name: Borba
 
-avatar:
-  image: avatar.jpg
-  shape: circle
-  # Force higher resolution
-  processing:
-    width: 270
-    height: 270
+
 
 # Is this the primary user of the site?
 superuser: true
