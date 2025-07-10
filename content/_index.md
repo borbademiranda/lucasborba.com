@@ -29,10 +29,10 @@ sections:
           # Add your image background to `assets/media/`.
           filename: BE334085-C51B-4E56-AFE9-DB4C6335D383_1_201_a.svg
           filters:
-            brightness: 0.4
+            brightness: 0.6
           size: cover
           position: center
-          parallax: true
+          parallax: false
 #   - block: markdown
 #     content:
 #       title: '📚 My Research'
