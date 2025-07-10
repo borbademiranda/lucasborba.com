@@ -50,7 +50,8 @@ interests:
 
 education:
   - area: PhD Political Science
-    institution: Vanderbilt University (Expected 2027). "Dissertation title: Segregation and the Weak State Trap"
+    institution: >
+    Vanderbilt University (Expected 2027). Dissertation title: Segregation and the Weak State Trap
 
     date_start: 2021-08-01
     date_end: 2027-05-31
