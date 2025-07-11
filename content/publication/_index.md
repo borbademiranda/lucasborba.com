@@ -1,7 +1,7 @@
 ---
 tags: []
 categories: []
-title: "Publications"
+title: "<span style='font-size:1.5rem;'>Publications</span>"
 cms_exclude: true
 
 # View.
