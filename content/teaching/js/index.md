@@ -6,10 +6,7 @@ summary: Some text
 date: 2021
 type: docs
 math: false
-tags:
-  - Elections
-  - Electoral behavior
-  - Electoral systems
+tags: Electoral behavior; Electoral systems; Political parties; Campaigns
 image:
-  caption: 'Santinhos in Brazil'
+  caption: 'Brazilian Congress'
 ---
