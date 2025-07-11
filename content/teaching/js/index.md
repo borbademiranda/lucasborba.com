@@ -11,5 +11,5 @@ tags:
   - Electoral behavior
   - Electoral systems
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Informal market in 
 ---

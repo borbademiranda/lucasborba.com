@@ -7,9 +7,7 @@ date: 2022
 type: docs
 math: false
 tags:
-  - Elections
-  - Electoral behavior
-  - Africa
+  - Elections, electoral behavior, political parties
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Informal market in Dakar'
 ---
