@@ -2,7 +2,7 @@
 tags: []
 categories: []
 title: African Politics
-summary: 'Student evaluations: 4.47 (Department average: 4.07). Lead instructor: Kristin Michelitch'
+summary: 'Student evaluations: 4.47/5 (Department average: 4.07/5). Lead instructor: Kristin Michelitch'
 date: 2022-01-01
 semester: 'Spring 2022'
 type: docs
