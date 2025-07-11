@@ -1,0 +1,3 @@
+find ~/Library/Caches/hugo_cache -name landing_page.html{{- define "main" -}}
+{{ partial "landing_page.html" . }}
+{{- end -}}
