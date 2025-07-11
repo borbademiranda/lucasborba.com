@@ -11,5 +11,5 @@ tags:
   - Electoral behavior
   - Electoral systems
 image:
-  caption: 'Informal market in 
+  caption: 'Santinhos in Brazil'
 ---
