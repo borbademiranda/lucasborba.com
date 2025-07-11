@@ -2,8 +2,8 @@
 tags: []
 categories: []
 title: African Politics
-summary: 'Elections, parties, and electoral systems in Sub-Saharan Africa. Lead instructor: Kristin Michelitch'
-date: 2022
+summary: 'This course explores major themes in African politics and development. Moving chronologically, we examine the pre-colonial, colonial, post-colonial, and “third wave” transitions to democracy, highlighting the political and socioeconomic legacies each period left behind. We consider questions such as: How did the slave trade shape African societies? Why was colonialism in Africa so late and short-lived? How did independence movements give way to authoritarian regimes? What explains the push toward democracy, and has it taken root since founding elections? Lead instructor: Kristin Michelitch'
+date: 2022-01
 type: docs
 math: false
 tags:
