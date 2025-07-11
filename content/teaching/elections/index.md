@@ -2,7 +2,7 @@
 tags: []
 categories: []
 title: Elections and Voters Around the World
-summary: 'Student evaluations: 4.86. Lead instructor: Elizabeth Zechmeister'
+summary: 'Student evaluations: 4.78 (Department average: 4.15). Lead instructor: Elizabeth Zechmeister'
 date: 2021-08-01
 semester: 'Fall 2021'
 type: docs
