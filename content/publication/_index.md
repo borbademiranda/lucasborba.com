@@ -3,6 +3,8 @@ tags: []
 categories: []
 title: "Publications"
 cms_exclude: true
+type: landing
+
 
 # View.
 view: citation
