@@ -15,6 +15,12 @@ banner:
 
 <style>
 h1.lg\:text-6xl {
-  font-size: 2rem !important;
+  font-size: 1.8rem !important;
+}
+</style>
+
+<style>
+.page-body {
+  margin-top: 4rem !important;
 }
 </style>
