@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Work in Progress"
 tags: []
 categories: []
 type: landing
