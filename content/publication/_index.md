@@ -21,6 +21,6 @@ h1.lg\:text-6xl {
 
 <style>
 .page-body {
-  margin-top: 6.5rem !important;
+  margin-top: 6rem !important;
 }
 </style>
