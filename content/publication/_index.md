@@ -15,6 +15,6 @@ banner:
 
 <style>
 h1.lg\:text-6xl {
-  font-size: 1rem !important;
+  font-size: 2rem !important;
 }
 </style>
