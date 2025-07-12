@@ -4,7 +4,6 @@ categories: []
 title: "Publications"
 cms_exclude: true
 
-
 # View.
 view: citation
 
@@ -13,3 +12,9 @@ banner:
   caption: ''
   image: ''
 ---
+
+<style>
+h1.lg\:text-6xl {
+  font-size: 1rem !important;
+}
+</style>
