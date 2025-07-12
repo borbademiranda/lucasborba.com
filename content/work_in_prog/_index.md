@@ -30,6 +30,6 @@ h1.lg\:text-6xl {
 
 <style>
 .page-body {
-  margin-top: 6rem !important;
+  margin-top: 5rem !important;
 }
 </style>
