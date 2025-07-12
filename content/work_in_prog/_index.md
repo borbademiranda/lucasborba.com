@@ -1,7 +1,8 @@
 ---
-title: "Work in Progress"
 tags: []
 categories: []
+title: "Work in Progress"
+cms_exclude: true
 #type: landing
 
 #design:
@@ -21,7 +22,6 @@ categories: []
 #      view: article-grid
 #      fill_image: false
 #      columns: 3
-cms_exclude: true
 
 # View.
 view: citation
