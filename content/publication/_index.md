@@ -10,7 +10,7 @@ view: citation
 # Optional header image (relative to `static/media/` folder).
 banner:
   caption: ''
-  image: '15D526C8-5669-42BB-9BA8-353F9CA22006_1_201_a.svg'
+  image: '15D526C8-5669-42BB-9BA8-353F9CA22006_1_201_a.png'
 
 ---
 
