@@ -39,6 +39,6 @@ h1.lg\:text-6xl {
 
 <style>
 .max-w-prose {
-  margin-top: 4rem !important;
+  margin-top: 3rem !important;
 }
 </style>
