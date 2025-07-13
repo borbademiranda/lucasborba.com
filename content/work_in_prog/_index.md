@@ -37,8 +37,3 @@ h1.lg\:text-6xl {
 }
 </style>
 
-<style>
-.flex {
-  margin-top: 5.5rem !important;
-}
-</style>
