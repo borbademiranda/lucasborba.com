@@ -33,12 +33,12 @@ banner:
 ---
 <style>
 h1.lg\:text-6xl {
-  font-size: 2rem !important;
+  font-size: 1.8rem !important;
 }
 </style>
 
 <style>
 .max-w-prose {
-  margin-top: 4.5rem !important;
+  margin-top: 4rem !important;
 }
 </style>
