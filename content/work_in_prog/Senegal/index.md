@@ -1,7 +1,7 @@
 ---
 tags: []
 categories: []
-title: "Private-sector support for programmatic candidates: Evidence from Senegal."
+title: "Private-sector support for programmatic candidates: Evidence from Senegal"
 authors:
 - Abhit Bhandari
 - admin

@@ -1,18 +1,18 @@
 ---
 tags: []
 categories: []
-title: "Houses for the People, Power for the Gangs: Criminal Governance and Social Housing."
+title: "Houses for the People, Power for the Gangs: Criminal Governance and Social Housing"
 authors:
 - admin
 - Eduardo Mello
 - Dani Nedal
 - Daniel Rio Tinto
 - Bruno Pantaleão
-date: "2025-05-01T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
