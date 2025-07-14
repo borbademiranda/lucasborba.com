@@ -28,7 +28,7 @@ tags:
 links:
 #- name: DOI
 #  url: https://doi.org/10.1177/00104140241259458
-url_pdf: https://journals.sagepub.com/doi/epub/10.1177/00104140241259458
+#url_pdf: https://journals.sagepub.com/doi/epub/10.1177/00104140241259458
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
