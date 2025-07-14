@@ -34,10 +34,10 @@ publishDate: "2025-05-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Comparative Political Studies, 58*(6)"
 publication_short: ""
 
 abstract: Much of what we know about public support for democracy is based on survey questions about “democracy,” a term that varies in meaning across countries and likely prompts uncritically supportive responses. This paper proposes a new approach to measuring support for democracy. We develop a battery of 17 survey questions that cover all eight components of liberal democracy as defined by the V-Dem project. We then ask respondents from 19 national samples to evaluate these rights and institutions. We find considerable heterogeneity across countries in how our items cohere, especially in less developed contexts. Yet, those items that are more weakly connected with general support for liberal democracy tend to reveal the influence of political events and actors, arguably indicating weaknesses in political cultures. We further identify a concise subset of seven items that provide a reliable and valid measure of support for liberal democracy across our different samples.
@@ -47,10 +47,10 @@ summary: This paper introduces a new way to measure support for democracy by usi
 tags:
 - Support for democracy; Survey research; Indices.
 
-featured: true
+#featured: true
 
 links:
-- name: Comparative Political Studies
+- name: Journal Website
   url: https://journals.sagepub.com/doi/full/10.1177/00104140241259458
 url_pdf: https://journals.sagepub.com/doi/epub/10.1177/00104140241259458
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
