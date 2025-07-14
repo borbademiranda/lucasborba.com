@@ -1,30 +1,13 @@
 ---
 tags: []
 categories: []
-title: "Conceptualizing and Measuring Support for Democracy: A New Approach"
+title: "Do Conspiracy Theories Undermine Support for Democracy?"
 authors:
-- Christopher Claassen
-- Kathrin Ackermann
-- Eri Bertsou
+- Marcelle Amaral
 - admin
-- Ryan E. Carlin
-- Amnon Cavari
-- Sirianne Dahlum
-- Sergiu Gherghina
-- Darren Hawkins
-- Yphtach Lelkes
-- Pedro C. Magalhães
-- Robert Mattes
-- Maurits J. Meijers
-- Anja Neundorf
-- Dániel Oross
-- Aykut Öztürk
-- Rodolfo Sarsfield
-- Darin Self
-- Ben Stanley
-- Tsung-han Tsai
-- Andrej Zaslove
-- Elizabeth J. Zechmeister
+- Eduarda Lessa
+- Vanessa Lira
+- Nara Pavão
 date: "2025-05-01T00:00:00Z"
 doi: ""
 
@@ -37,16 +20,13 @@ publishDate: "2025-05-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Comparative Political Studies, 58*(6)"
+publication: "*Revise & Resubmit"
 publication_short: ""
 
-abstract: Much of what we know about public support for democracy is based on survey questions about “democracy,” a term that varies in meaning across countries and likely prompts uncritically supportive responses. This paper proposes a new approach to measuring support for democracy. We develop a battery of 17 survey questions that cover all eight components of liberal democracy as defined by the V-Dem project. We then ask respondents from 19 national samples to evaluate these rights and institutions. We find considerable heterogeneity across countries in how our items cohere, especially in less developed contexts. Yet, those items that are more weakly connected with general support for liberal democracy tend to reveal the influence of political events and actors, arguably indicating weaknesses in political cultures. We further identify a concise subset of seven items that provide a reliable and valid measure of support for liberal democracy across our different samples.
+abstract: Conspiracy theories are widely viewed as harmful to politics, and a growing number of studies have sought to identify their detrimental effects. Our study adds to this literature by examining whether brief, realistic exposure to conspiracy theories about a major political event can undermine individuals’ commitment to a broad set of democratic norms. We rely on two online survey experiments conducted in Brazil with a total of 8 thousand respondents. Participants randomized to treatment conditions were exposed to conspiracy theories about President Bolsonaro's stabbing, while participants in the control groups watched either the official account or unrelated content. Subsequently, participants answered questions about democratic norms, institutional trust, and political hostility. Results show that exposure to conspiracy theories reduces democratic support, especially in the electoral dimension. Surprisingly, non-partisans, not partisans, are more affected. Results also indicate that exposure to conspiracy theories reduces institutional trust but does not affect political hostility. These findings underscore the nuanced and specific nature of the influence of conspiracy theories on democratic values, which can help calibrate our concerns about these narratives.
 
-# Summary. An optional shortened abstract.
-summary: This paper introduces a new way to measure support for democracy by using 17 survey items tied to the eight components of liberal democracy from V-Dem, tested across 19 countries. The results show cross-national variation in how these items relate to each other, with weaker connections often reflecting the impact of political events and actors. The authors also identify a shorter set of seven questions that reliably captures support for liberal democracy across diverse contexts.
 tags:
-- Support for democracy; Survey research; Indices.
-
+- Democracy; Conspiracy theories; Institutional trust; Political hostility; Electoral integrity
 #featured: true
 
 links:
