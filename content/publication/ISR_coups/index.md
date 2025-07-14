@@ -29,8 +29,8 @@ abstract: The term “coup” has been used to describe a diverse range of event
 summary: This forum examines how the term “coup” is applied far more broadly by the public and institutions than by scholars, with significant implications for analysis and policy. It highlights the challenges of distinguishing coups from other antidemocratic acts and suggests how academics can help bridge the gap between scholarly and popular understandings.
 
 tags:
-- Source Themes
-featured: false
+- Democratic backsliding
+#featured: false
 
 # links:
  - name: DOI
