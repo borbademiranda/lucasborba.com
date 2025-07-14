@@ -35,11 +35,11 @@ profiles:
     url: 'mailto:lucas.borba@vanderbilt.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/borbademiranda
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=XcwQzxgAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 #interests:
 #  - Comparative Politics
