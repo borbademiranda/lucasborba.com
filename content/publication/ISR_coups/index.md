@@ -29,7 +29,7 @@ tags:
 - Democratic backsliding
 #featured: false
 
-# links:
+links:
  - name: DOI
    url: 'https://doi.org/10.1093/isr/viab062'
 url_pdf: 'https://watermark.silverchair.com/viab062.pdf'
