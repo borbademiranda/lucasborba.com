@@ -33,9 +33,9 @@ tags:
 featured: false
 
 # links:
- - name: "DOI"
-   url: "https://doi.org/10.1093/isr/viab062"
-url_pdf: "https://watermark.silverchair.com/viab062.pdf"
+ - name: DOI
+   url: https://doi.org/10.1093/isr/viab062
+url_pdf: https://watermark.silverchair.com/viab062.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
