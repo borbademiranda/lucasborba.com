@@ -20,7 +20,7 @@ publishDate: "2025-05-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revise & Resubmit"
+publication: "*Revise & Resubmit*"
 publication_short: ""
 
 abstract: Conspiracy theories are widely viewed as harmful to politics, and a growing number of studies have sought to identify their detrimental effects. Our study adds to this literature by examining whether brief, realistic exposure to conspiracy theories about a major political event can undermine individuals’ commitment to a broad set of democratic norms. We rely on two online survey experiments conducted in Brazil with a total of 8 thousand respondents. Participants randomized to treatment conditions were exposed to conspiracy theories about President Bolsonaro's stabbing, while participants in the control groups watched either the official account or unrelated content. Subsequently, participants answered questions about democratic norms, institutional trust, and political hostility. Results show that exposure to conspiracy theories reduces democratic support, especially in the electoral dimension. Surprisingly, non-partisans, not partisans, are more affected. Results also indicate that exposure to conspiracy theories reduces institutional trust but does not affect political hostility. These findings underscore the nuanced and specific nature of the influence of conspiracy theories on democratic values, which can help calibrate our concerns about these narratives.
