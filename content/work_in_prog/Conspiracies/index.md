@@ -32,7 +32,7 @@ tags:
 links:
 - name: DOI
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5352897
-url_pdf: https://papers.ssrn.com/sol3/Delivery.cfm/5352897.pdf?abstractid=5352897&mirid=1
+url_pdf: https://papers.ssrn.com/sol3/Delivery.cfm/5352897.pdf?abstractid=5352897&mirid=1&type=2
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
