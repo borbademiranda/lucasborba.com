@@ -31,8 +31,8 @@ tags:
 
 links:
 - name: DOI
-  url: https://doi.org/10.1177/00104140241259458
-url_pdf: https://journals.sagepub.com/doi/epub/10.1177/00104140241259458
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5352897
+url_pdf: https://papers.ssrn.com/sol3/Delivery.cfm/5352897.pdf?abstractid=5352897&mirid=1
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
